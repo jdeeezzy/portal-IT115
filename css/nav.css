@@ -17,7 +17,7 @@
 }
 
 .topnav a.hover, .active {
-    background-color: rgb(247, 226, 3);
+    background-color: goldenrod;
 }
 
 .topnav .icon {
