@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
+    background-color: black;
     /* font-family: 'Quicksand', sans-serif; */
     font-family: 'Montserrat', sans-serif;
     font-size: 0.95em;
@@ -25,6 +25,7 @@ h1 {
 header h1{
     font-family: 'Tangerine', serif;
     font-size: 48px;
+    text-shadow: 8px 8px 8px #aaa;
 }
 
 main.wrapper {
